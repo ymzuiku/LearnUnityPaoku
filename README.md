@@ -1,6 +1,22 @@
 # 此项目用于记录学习<从零开发3D跑酷游戏>
 
-一些笔记记录在 [Wiki](http://workos.top/ym/LearnUnityPaoku/wikis/home) 中
+## Document
+
+### Basic
+
+* [修改材质颜色](wiki/basic/修改材质颜色.md)
+* [修改组件执行顺序](wiki/basic/修改组件执行顺序.md)
+* [协程](wiki/basic/协程.md)
+* [单例和代理](wiki/basic/单例和代理.md)
+* [移动](wiki/basic/移动.md)
+
+### Example
+
+* [动画管理器](wiki/basic/动画管理器.md)
+* [添加跳跃和重力](wiki/basic/添加跳跃和重力.md)
+* [获取手势方向](wiki/basic/获取手势方向.md)
+
+---
 
 ## 开发步骤
 
