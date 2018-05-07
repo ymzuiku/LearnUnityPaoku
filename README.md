@@ -4,17 +4,17 @@
 
 ### Basic
 
-* [修改材质颜色](wiki/basic/修改材质颜色.md)
-* [修改组件执行顺序](wiki/basic/修改组件执行顺序.md)
-* [协程](wiki/basic/协程.md)
-* [单例和代理](wiki/basic/单例和代理.md)
-* [移动](wiki/basic/移动.md)
+* [修改材质颜色](doc/basic/修改材质颜色.md)
+* [修改组件执行顺序](doc/basic/修改组件执行顺序.md)
+* [协程](doc/basic/协程.md)
+* [单例和代理](doc/basic/单例和代理.md)
+* [移动](doc/basic/移动.md)
 
 ### Example
 
-* [动画管理器](wiki/basic/动画管理器.md)
-* [添加跳跃和重力](wiki/basic/添加跳跃和重力.md)
-* [获取手势方向](wiki/basic/获取手势方向.md)
+* [动画管理器](doc/basic/动画管理器.md)
+* [添加跳跃和重力](doc/basic/添加跳跃和重力.md)
+* [获取手势方向](doc/basic/获取手势方向.md)
 
 ---
 
