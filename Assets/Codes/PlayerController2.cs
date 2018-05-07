@@ -7,6 +7,7 @@ public class PlayerController2 : MonoBehaviour
   public static PlayerController2 single;
   public float[] xList = new float[3] { -1.7f, 0f, 1.7f };
   public float runSpeed = 2.0f;
+  float lastRunSpeed = 1f;
   // Use this for initialization
   MouseDirection inputDirection;
   Vector3 mousePos;
@@ -20,6 +21,9 @@ public class PlayerController2 : MonoBehaviour
   public int canJumpNumber = 2;
   public int nowJumpNumber = 0;
   public Vector3 moveDircetion;
+  float quickMoveTime = 3f;
+  public float nowQuickMoveTime = 0;
+  bool isQuickMove = false;
   CharacterController characterController;
 
   void Start()
@@ -168,6 +172,30 @@ public class PlayerController2 : MonoBehaviour
   {
     moveDircetion.y -= jumpValue * 2;
   }
+  public void QuickMove()
+  {
+    nowQuickMoveTime = 0;
+    if (isQuickMove == false)
+    {
+      isQuickMove = true;
+      lastRunSpeed = runSpeed;
+      runSpeed += 20;
+    }
+
+  }
+  void _updateQuickMove()
+  {
+    if (isQuickMove == true)
+    {
+      nowQuickMoveTime += Time.deltaTime;
+      if (nowQuickMoveTime > quickMoveTime)
+      {
+        isQuickMove = false;
+        runSpeed = lastRunSpeed;
+      }
+    }
+  }
+
   void JumpDouble()
   {
     nowJumpNumber += 1;
@@ -191,6 +219,7 @@ public class PlayerController2 : MonoBehaviour
   // Update is called once per frame
   void Update()
   {
+    _updateQuickMove();
     moveDircetion.z = runSpeed;
     moveDircetion.y -= gravity * Time.deltaTime;
     characterController.Move((moveDircetion + xDirection) * Time.deltaTime);

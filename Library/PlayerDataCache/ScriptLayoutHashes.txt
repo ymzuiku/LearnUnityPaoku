@@ -124,7 +124,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 c244dbf79bb0b759cbcdff545f5f1dc2 Assembly-CSharp.dll:.AutoDestory
 184764360709e7b6a011746fb273d62b Assembly-CSharp.dll:.FloorSetter
 c370610e7ae540a8790f25edc5f77b85 Assembly-CSharp.dll:.PlayerController
-d7d4b52c17547b47948230bf1fa9782d Assembly-CSharp.dll:.Cube
 6e043ef21664c9170f44ad73deed6a86 Assembly-CSharp.dll:.GameAttribute
 ef9487c661c3218e8325d3588cd865a9 Assembly-CSharp.dll:.CarmerController
 457215cc6973b63b6deb9b2ad4f7f2ce Assembly-CSharp.dll:.AnimeManager
@@ -168,7 +167,14 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 a1bab78e22e22610c211ed671c963e56 Assembly-CSharp.dll:.Magnet
-7746bfe7b180322a550241c93626aace Assembly-CSharp.dll:.PlayerController2
+db2482203f3f2369af933d0b49d236f6 Assembly-CSharp.dll:.PlayerController2
 a1bab78e22e22610c211ed671c963e56 Assembly-CSharp.dll:.Shoe
 e4ea79e7781ec99ef54530374686a870 Assembly-CSharp.dll:.RoadController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.cube
+c5f40a9b22dcc0c44fbf134d9fe729fa Assembly-CSharp.dll:.Coin2
+c244dbf79bb0b759cbcdff545f5f1dc2 Assembly-CSharp.dll:.AutoDestory2
+15d2b6b1e6adeaa7a0973563f19bc920 Assembly-CSharp.dll:.RxState
+a1bab78e22e22610c211ed671c963e56 Assembly-CSharp.dll:.Food
+a1bab78e22e22610c211ed671c963e56 Assembly-CSharp.dll:.Star2
+cc0823de7b86561f066417284cffec87 Assembly-CSharp.dll:.MagnetCollider2
+a1bab78e22e22610c211ed671c963e56 Assembly-CSharp.dll:.GetCoin

@@ -2,34 +2,30 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Coin2 : MonoBehaviour
+public class Coin2 : Food
 {
-  public float rotateSpeed = 1;
-  public GameObject hitEffect;
-
-  void Start()
+  public float moveSpeed = 10f;
+  GameObject moveTheTarget;
+  public void MoveToTarget(GameObject target)
   {
-
+    moveTheTarget = target;
   }
-
-  void Update()
+  public override void OnTriggerEnter(Collider other)
   {
-    transform.Rotate(0, rotateSpeed * Time.deltaTime, 0);
-  }
-
-  /// <summary>
-  /// OnTriggerEnter is called when the Collider other enters the trigger.
-  /// </summary>
-  /// <param name="other">The other Collider involved in this collision.</param>
-  void OnTriggerEnter(Collider other)
-  {
+    base.OnTriggerEnter(other);
     if (other.tag == "Player")
     {
-      GameObject effect = Instantiate(hitEffect);
-      effect.transform.parent = PlayerController2.single.gameObject.transform;
-      effect.transform.localPosition = new Vector3(0, 0.5f, 0);
       RxState.single.coin += 1;
-      Destroy(gameObject);
+    }
+  }
+  /// <summary>
+  /// Update is called every frame, if the MonoBehaviour is enabled.
+  /// </summary>
+  void Update()
+  {
+    if (moveTheTarget)
+    {
+      transform.position = Vector3.Lerp(transform.position, moveTheTarget.transform.position, Time.deltaTime * moveSpeed);
     }
   }
 }
