@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController2 : MonoBehaviour
 {
+  public static PlayerController2 single;
   public float[] xList = new float[3] { -1.7f, 0f, 1.7f };
   public float runSpeed = 2.0f;
   // Use this for initialization
@@ -23,6 +24,7 @@ public class PlayerController2 : MonoBehaviour
 
   void Start()
   {
+    single = this;
     standPosition = 1;
     characterController = GetComponent<CharacterController>();
     StartCoroutine(UpdateAction());

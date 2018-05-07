@@ -52,10 +52,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Codes\AnimeManager.cs" />
+     <Compile Include="Assets\Codes\AutoDestory2.cs" />
      <Compile Include="Assets\Codes\CarmerController.cs" />
+     <Compile Include="Assets\Codes\Coin2.cs" />
      <Compile Include="Assets\Codes\Cube.cs" />
      <Compile Include="Assets\Codes\PlayerController2.cs" />
      <Compile Include="Assets\Codes\RoadController.cs" />
+     <Compile Include="Assets\Codes\RxState.cs" />
      <Compile Include="Assets\cube.cs" />
      <Compile Include="Assets\Script\AnimationManager.cs" />
      <Compile Include="Assets\Script\AudioManager.cs" />
