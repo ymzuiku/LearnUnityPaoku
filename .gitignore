@@ -1,8 +1,8 @@
 # gitignore
 
 Temp
-BuildIOS
-BuildAndroid
+unity-ios
+unity-android
 
 **/.git-
 **/.git--
