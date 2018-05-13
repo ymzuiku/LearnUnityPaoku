@@ -4,24 +4,25 @@ using UnityEngine;
 
 public class RoadController : MonoBehaviour
 {
-
   public GameObject roadRuning;
   public GameObject roadForward;
-	public float forward = 40f;
-  // Use this for initialization
-  void Start()
-  {
 
+  public float forward = 40f;
+
+  // Use this for initialization
+  private void Start()
+  {
   }
 
   // Update is called once per frame
-  void Update()
+  private void Update()
   {
-		if(transform.position.z > roadRuning.transform.position.z + forward / 2){
-			roadForward.transform.position = new Vector3(0,0,roadRuning.transform.position.z+forward);
-			GameObject temp = roadRuning;
-			roadRuning = roadForward;
-			roadForward = temp;
-		}
+    if (transform.position.z > roadRuning.transform.position.z + forward / 2)
+    {
+      roadForward.transform.position = new Vector3(0, 0, roadRuning.transform.position.z + forward);
+      GameObject temp = roadRuning;
+      roadRuning = roadForward;
+      roadForward = temp;
+    }
   }
 }

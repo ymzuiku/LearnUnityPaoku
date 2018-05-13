@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d944de1-e0ae-4faf-9e90-92518d9c076b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku1/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnUnityPaoku1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Codes/Coin2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Codes/Coin2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Codes/GetCoin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Codes/GetCoin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Codes/RoadController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Codes/RoadController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnUnityPaoku.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LearnUnityPaoku.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0d/0df9b132c5665487d9bdb63b24d36905" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0d/0df9b132c5665487d9bdb63b24d36905" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4f/4f5697beb1eb8424eb859168d146f253" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4f/4f5697beb1eb8424eb859168d146f253" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/52/528baf386e3784849b13789d3753718d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/52/528baf386e3784849b13789d3753718d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RoadController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Codes/RoadController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <marker date="1525892469490" expanded="true" signature="6:78" ph="..." />
+                <marker date="1525892469490" expanded="true" signature="123:643" ph="{...}" />
+                <marker date="1525892469490" expanded="true" signature="278:286" ph="{...}" />
+                <marker date="1525892469490" expanded="true" signature="348:641" ph="{...}" />
+                <marker date="1525892469490" expanded="true" signature="430:637" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Codes/AutoDestory2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Codes/Coin2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Codes/RoadController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Codes/CarmerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Codes/PlayerController2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Codes/GetCoin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Codes/Coin2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Codes/GetCoin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Codes/RoadController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="161" />
+    <option name="y" value="26" />
+    <option name="width" value="1400" />
+    <option name="height" value="908" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LearnUnityPaoku" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LearnUnityPaoku" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="161" y="26" width="1400" height="908" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/Coin2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1525890424160" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525890424160" expanded="true" signature="105:716" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="214:251" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="305:420" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="372:416" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="423:522" ph="/// Update is called every frame, if the MonoBehaviour is enabled. ... " />
+            <marker date="1525890424160" expanded="true" signature="546:714" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="574:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/GetCoin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525892217458" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525892217458" expanded="true" signature="107:354" ph="{...}" />
+            <marker date="1525892217458" expanded="true" signature="163:352" ph="{...}" />
+            <marker date="1525892217458" expanded="true" signature="235:348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/Coin2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1525890424160" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525890424160" expanded="true" signature="105:716" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="214:251" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="305:420" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="372:416" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="423:522" ph="/// Update is called every frame, if the MonoBehaviour is enabled. ... " />
+            <marker date="1525890424160" expanded="true" signature="546:714" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="574:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/AutoDestory2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525708236714" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525708236714" expanded="true" signature="121:385" ph="{...}" />
+            <marker date="1525708236714" expanded="true" signature="162:322" ph="/// Start is called on the frame when a script is enabled just before ... " />
+            <marker date="1525708236714" expanded="true" signature="337:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/GetCoin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1525892217458" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525892217458" expanded="true" signature="107:354" ph="{...}" />
+            <marker date="1525892217458" expanded="true" signature="163:352" ph="{...}" />
+            <marker date="1525892217458" expanded="true" signature="235:348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/Coin2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1525890424160" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525890424160" expanded="true" signature="105:716" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="214:251" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="305:420" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="372:416" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="423:522" ph="/// Update is called every frame, if the MonoBehaviour is enabled. ... " />
+            <marker date="1525890424160" expanded="true" signature="546:714" ph="{...}" />
+            <marker date="1525890424160" expanded="true" signature="574:710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/CarmerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525621020648" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525621020648" expanded="true" signature="125:1011" ph="{...}" />
+            <marker date="1525621020648" expanded="true" signature="410:448" ph="{...}" />
+            <marker date="1525621020648" expanded="true" signature="502:511" ph="{...}" />
+            <marker date="1525621020648" expanded="true" signature="514:677" ph="/// LateUpdate is called every frame, if the Behaviour is enabled. ... " />
+            <marker date="1525621020648" expanded="true" signature="697:1009" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/PlayerController2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525712001341" expanded="false" signature="6:78" ph="..." />
+            <marker date="1525712001341" expanded="true" signature="126:5837" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="819:968" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="998:1128" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1019:1124" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1156:2139" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1239:1315" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1363:2135" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1428:1478" ph="/* vec.normalized 向量归一 ... */" />
+            <marker date="1525712001341" expanded="true" signature="1508:2128" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1725:1791" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1823:1891" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="1922:1991" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="2023:2091" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="2163:3196" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="2236:2439" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="2529:2734" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="2845:2979" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3058:3192" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3218:4638" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3269:3356" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3429:3917" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3712:3804" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3851:3911" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3926:4634" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="3981:4020" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4072:4175" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4123:4167" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4183:4280" ph="/* 因为执行顺序的问题, AnimeManager.single可能是空的,可以去修改执行顺序 ... */" />
+            <marker date="1525712001341" expanded="true" signature="4531:4628" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4659:4705" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4731:4887" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4791:4882" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4913:5126" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="4946:5122" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5038:5116" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5147:5367" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5283:5322" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5383:5592" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5515:5554" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5645:5835" ph="{...}" />
+            <marker date="1525712001341" expanded="true" signature="5866:5909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Codes/RoadController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1525892469490" expanded="true" signature="6:78" ph="..." />
+            <marker date="1525892469490" expanded="true" signature="123:643" ph="{...}" />
+            <marker date="1525892469490" expanded="true" signature="278:286" ph="{...}" />
+            <marker date="1525892469490" expanded="true" signature="348:641" ph="{...}" />
+            <marker date="1525892469490" expanded="true" signature="430:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

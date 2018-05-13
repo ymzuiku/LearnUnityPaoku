@@ -5,10 +5,10 @@ using UnityEngine;
 public class Coin2 : Food
 {
   public float moveSpeed = 10f;
-  GameObject moveTheTarget;
+  GameObject _moveTheTarget;
   public void MoveToTarget(GameObject target)
   {
-    moveTheTarget = target;
+    _moveTheTarget = target;
   }
   public override void OnTriggerEnter(Collider other)
   {
@@ -21,11 +21,11 @@ public class Coin2 : Food
   /// <summary>
   /// Update is called every frame, if the MonoBehaviour is enabled.
   /// </summary>
-  void Update()
+  private void Update()
   {
-    if (moveTheTarget)
+    if (_moveTheTarget)
     {
-      transform.position = Vector3.Lerp(transform.position, moveTheTarget.transform.position, Time.deltaTime * moveSpeed);
+      transform.position = Vector3.Lerp(transform.position, _moveTheTarget.transform.position, Time.deltaTime * moveSpeed);
     }
   }
 }

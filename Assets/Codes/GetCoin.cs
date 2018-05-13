@@ -7,7 +7,7 @@ public class GetCoin : Food
   public override void OnTriggerEnter(Collider other)
   {
     base.OnTriggerEnter(other);
-    if (other.tag == "Player")
+    if (other.CompareTag("Player"))
     {
       other.transform.Find("GetCoinController").GetComponent<MagnetCollider2>().SetCanGetCoin(true);
     }
